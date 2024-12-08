@@ -1,0 +1,15 @@
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\bin\Debug\net8.0\FillAndAlign.exe
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\bin\Debug\net8.0\FillAndAlign.deps.json
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\bin\Debug\net8.0\FillAndAlign.runtimeconfig.json
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\bin\Debug\net8.0\FillAndAlign.dll
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\bin\Debug\net8.0\FillAndAlign.pdb
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\obj\Debug\net8.0\FillAndAlign.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\obj\Debug\net8.0\FillAndAlign.AssemblyInfoInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\obj\Debug\net8.0\FillAndAlign.AssemblyInfo.cs
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\obj\Debug\net8.0\FillAndAlign.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\obj\Debug\net8.0\FillAndAlign.sourcelink.json
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\obj\Debug\net8.0\FillAndAlign.dll
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\obj\Debug\net8.0\refint\FillAndAlign.dll
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\obj\Debug\net8.0\FillAndAlign.pdb
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\obj\Debug\net8.0\FillAndAlign.genruntimeconfig.cache
+D:\Code\.NetEverdayPractice\2024-12-08\FillAndAlign\obj\Debug\net8.0\ref\FillAndAlign.dll

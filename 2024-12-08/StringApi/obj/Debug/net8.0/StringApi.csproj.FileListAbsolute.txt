@@ -1,0 +1,15 @@
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\bin\Debug\net8.0\StringApi.exe
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\bin\Debug\net8.0\StringApi.deps.json
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\bin\Debug\net8.0\StringApi.runtimeconfig.json
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\bin\Debug\net8.0\StringApi.dll
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\bin\Debug\net8.0\StringApi.pdb
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\obj\Debug\net8.0\StringApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\obj\Debug\net8.0\StringApi.AssemblyInfoInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\obj\Debug\net8.0\StringApi.AssemblyInfo.cs
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\obj\Debug\net8.0\StringApi.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\obj\Debug\net8.0\StringApi.sourcelink.json
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\obj\Debug\net8.0\StringApi.dll
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\obj\Debug\net8.0\refint\StringApi.dll
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\obj\Debug\net8.0\StringApi.pdb
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\obj\Debug\net8.0\StringApi.genruntimeconfig.cache
+D:\Code\.NetEverdayPractice\2024-12-08\StringApi\obj\Debug\net8.0\ref\StringApi.dll
