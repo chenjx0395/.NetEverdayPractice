@@ -1,0 +1,14 @@
+D:\Code\C#12-02First\interfaceExer02\bin\Debug\net8.0\interfaceExer02.exe
+D:\Code\C#12-02First\interfaceExer02\bin\Debug\net8.0\interfaceExer02.deps.json
+D:\Code\C#12-02First\interfaceExer02\bin\Debug\net8.0\interfaceExer02.runtimeconfig.json
+D:\Code\C#12-02First\interfaceExer02\bin\Debug\net8.0\interfaceExer02.dll
+D:\Code\C#12-02First\interfaceExer02\bin\Debug\net8.0\interfaceExer02.pdb
+D:\Code\C#12-02First\interfaceExer02\obj\Debug\net8.0\interfaceExer02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#12-02First\interfaceExer02\obj\Debug\net8.0\interfaceExer02.AssemblyInfoInputs.cache
+D:\Code\C#12-02First\interfaceExer02\obj\Debug\net8.0\interfaceExer02.AssemblyInfo.cs
+D:\Code\C#12-02First\interfaceExer02\obj\Debug\net8.0\interfaceExer02.csproj.CoreCompileInputs.cache
+D:\Code\C#12-02First\interfaceExer02\obj\Debug\net8.0\interfaceExer02.dll
+D:\Code\C#12-02First\interfaceExer02\obj\Debug\net8.0\refint\interfaceExer02.dll
+D:\Code\C#12-02First\interfaceExer02\obj\Debug\net8.0\interfaceExer02.pdb
+D:\Code\C#12-02First\interfaceExer02\obj\Debug\net8.0\interfaceExer02.genruntimeconfig.cache
+D:\Code\C#12-02First\interfaceExer02\obj\Debug\net8.0\ref\interfaceExer02.dll

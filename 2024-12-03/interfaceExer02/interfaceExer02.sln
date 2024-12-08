@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaceExer02", "interfaceExer02.csproj", "{E10D0B81-B47F-46EC-808B-C5B9F61A839E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E10D0B81-B47F-46EC-808B-C5B9F61A839E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10D0B81-B47F-46EC-808B-C5B9F61A839E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10D0B81-B47F-46EC-808B-C5B9F61A839E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10D0B81-B47F-46EC-808B-C5B9F61A839E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
