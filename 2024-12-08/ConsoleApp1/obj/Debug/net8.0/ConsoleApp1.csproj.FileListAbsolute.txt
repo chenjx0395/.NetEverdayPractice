@@ -12,3 +12,4 @@ D:\Code\.NetEverdayPractice\2024-12-08\ConsoleApp1\obj\Debug\net8.0\refint\Conso
 D:\Code\.NetEverdayPractice\2024-12-08\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 D:\Code\.NetEverdayPractice\2024-12-08\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 D:\Code\.NetEverdayPractice\2024-12-08\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Code\.NetEverdayPractice\2024-12-08\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
