@@ -1,2 +1,48 @@
-# 忽略 Visual Studio 的文件夹
+
+
+# Solution-wide files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Project-specific files
+*.csproj.user
+*.pidb
+*.log
+
+# Build output
+/bin
+/obj
+
+# NuGet packages
+/packages
+
+# Test results
+/TestResults
+/coverage
+
+# Database files
+*.mdf
+*.ldf
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE specific files
 .vs/
+.vscode/
+.DS_Store
+Thumbs.db
+*.rej
+*.orig
+
+# Visual Studio cache and temporary files
+LocalAppData/
+
+# Secrets file for ASP.NET Core
+secrets.json
+
+# Node.js files (if applicable)
+/node_modules

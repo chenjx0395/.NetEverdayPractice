@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\AddPackage.csproj": {}
+    "d:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\AddPackage.csproj": {}
   },
   "projects": {
-    "D:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\AddPackage.csproj": {
+    "d:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\AddPackage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\AddPackage.csproj",
+        "projectUniqueName": "d:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\AddPackage.csproj",
         "projectName": "AddPackage",
-        "projectPath": "D:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\AddPackage.csproj",
+        "projectPath": "d:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\AddPackage.csproj",
         "packagesPath": "C:\\Users\\22439\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\obj\\",
+        "outputPath": "d:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

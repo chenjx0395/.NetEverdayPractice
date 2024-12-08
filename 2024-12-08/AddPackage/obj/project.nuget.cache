@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ou0gKortXQE=",
+  "dgSpecHash": "moag1OJjkoY=",
   "success": true,
-  "projectFilePath": "D:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\AddPackage.csproj",
+  "projectFilePath": "d:\\Code\\.NetEverdayPractice\\2024-12-08\\AddPackage\\AddPackage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\22439\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\22439\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

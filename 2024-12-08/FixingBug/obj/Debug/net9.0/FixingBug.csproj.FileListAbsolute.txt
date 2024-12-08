@@ -1,0 +1,15 @@
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\bin\Debug\net9.0\FixingBug.exe
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\bin\Debug\net9.0\FixingBug.deps.json
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\bin\Debug\net9.0\FixingBug.runtimeconfig.json
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\bin\Debug\net9.0\FixingBug.dll
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\bin\Debug\net9.0\FixingBug.pdb
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\obj\Debug\net9.0\FixingBug.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\obj\Debug\net9.0\FixingBug.AssemblyInfoInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\obj\Debug\net9.0\FixingBug.AssemblyInfo.cs
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\obj\Debug\net9.0\FixingBug.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\obj\Debug\net9.0\FixingBug.sourcelink.json
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\obj\Debug\net9.0\FixingBug.dll
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\obj\Debug\net9.0\refint\FixingBug.dll
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\obj\Debug\net9.0\FixingBug.pdb
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\obj\Debug\net9.0\FixingBug.genruntimeconfig.cache
+D:\Code\.NetEverdayPractice\2024-12-08\FixingBug\obj\Debug\net9.0\ref\FixingBug.dll

@@ -58,3 +58,9 @@ D:\Code\.NetEverdayPractice\2024-12-08\AddPackage\bin\Debug\net8.0\zh-Hans\Human
 D:\Code\.NetEverdayPractice\2024-12-08\AddPackage\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
 D:\Code\.NetEverdayPractice\2024-12-08\AddPackage\obj\Debug\net8.0\AddPackage.csproj.AssemblyReference.cache
 D:\Code\.NetEverdayPractice\2024-12-08\AddPackage\obj\Debug\net8.0\AddPackage.csproj.Up2Date
+D:\Code\.NetEverdayPractice\2024-12-08\AddPackage\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Code\.NetEverdayPractice\2024-12-08\AddPackage\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Code\.NetEverdayPractice\2024-12-08\AddPackage\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Code\.NetEverdayPractice\2024-12-08\AddPackage\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Code\.NetEverdayPractice\2024-12-08\AddPackage\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Code\.NetEverdayPractice\2024-12-08\AddPackage\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
