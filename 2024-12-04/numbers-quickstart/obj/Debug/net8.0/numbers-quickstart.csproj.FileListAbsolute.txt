@@ -1,0 +1,14 @@
+D:\Code\.netExerCode12-02\numbers-quickstart\bin\Debug\net8.0\numbers-quickstart.exe
+D:\Code\.netExerCode12-02\numbers-quickstart\bin\Debug\net8.0\numbers-quickstart.deps.json
+D:\Code\.netExerCode12-02\numbers-quickstart\bin\Debug\net8.0\numbers-quickstart.runtimeconfig.json
+D:\Code\.netExerCode12-02\numbers-quickstart\bin\Debug\net8.0\numbers-quickstart.dll
+D:\Code\.netExerCode12-02\numbers-quickstart\bin\Debug\net8.0\numbers-quickstart.pdb
+D:\Code\.netExerCode12-02\numbers-quickstart\obj\Debug\net8.0\numbers-quickstart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.netExerCode12-02\numbers-quickstart\obj\Debug\net8.0\numbers-quickstart.AssemblyInfoInputs.cache
+D:\Code\.netExerCode12-02\numbers-quickstart\obj\Debug\net8.0\numbers-quickstart.AssemblyInfo.cs
+D:\Code\.netExerCode12-02\numbers-quickstart\obj\Debug\net8.0\numbers-quickstart.csproj.CoreCompileInputs.cache
+D:\Code\.netExerCode12-02\numbers-quickstart\obj\Debug\net8.0\numbers-quickstart.dll
+D:\Code\.netExerCode12-02\numbers-quickstart\obj\Debug\net8.0\refint\numbers-quickstart.dll
+D:\Code\.netExerCode12-02\numbers-quickstart\obj\Debug\net8.0\numbers-quickstart.pdb
+D:\Code\.netExerCode12-02\numbers-quickstart\obj\Debug\net8.0\numbers-quickstart.genruntimeconfig.cache
+D:\Code\.netExerCode12-02\numbers-quickstart\obj\Debug\net8.0\ref\numbers-quickstart.dll

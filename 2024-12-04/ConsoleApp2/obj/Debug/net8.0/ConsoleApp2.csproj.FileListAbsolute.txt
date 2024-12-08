@@ -1,0 +1,14 @@
+D:\Code\.netExerCode12-02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+D:\Code\.netExerCode12-02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+D:\Code\.netExerCode12-02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+D:\Code\.netExerCode12-02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+D:\Code\.netExerCode12-02\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+D:\Code\.netExerCode12-02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.netExerCode12-02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Code\.netExerCode12-02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+D:\Code\.netExerCode12-02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Code\.netExerCode12-02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+D:\Code\.netExerCode12-02\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+D:\Code\.netExerCode12-02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+D:\Code\.netExerCode12-02\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+D:\Code\.netExerCode12-02\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
