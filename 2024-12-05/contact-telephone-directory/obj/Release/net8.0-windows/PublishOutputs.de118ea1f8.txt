@@ -1,0 +1,5 @@
+D:\Test\contact-telephone-directory.exe
+D:\Test\contact-telephone-directory.dll
+D:\Test\contact-telephone-directory.deps.json
+D:\Test\contact-telephone-directory.runtimeconfig.json
+D:\Test\contact-telephone-directory.pdb

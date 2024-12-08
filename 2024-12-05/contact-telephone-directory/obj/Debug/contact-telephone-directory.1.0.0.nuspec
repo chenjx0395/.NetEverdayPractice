@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>contact-telephone-directory</id>
+    <version>1.0.0</version>
+    <authors>contact-telephone-directory</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Code\C#12-02First\contact-telephone-directory\bin\Debug\net8.0-windows\contact-telephone-directory.runtimeconfig.json" target="lib\net8.0-windows7.0\contact-telephone-directory.runtimeconfig.json" />
+    <file src="D:\Code\C#12-02First\contact-telephone-directory\bin\Debug\net8.0-windows\contact-telephone-directory.dll" target="lib\net8.0-windows7.0\contact-telephone-directory.dll" />
+  </files>
+</package>
