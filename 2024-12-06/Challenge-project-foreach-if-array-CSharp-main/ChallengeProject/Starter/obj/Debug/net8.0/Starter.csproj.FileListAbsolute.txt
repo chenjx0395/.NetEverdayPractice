@@ -1,0 +1,14 @@
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\Code\.netExerCode12-02\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll

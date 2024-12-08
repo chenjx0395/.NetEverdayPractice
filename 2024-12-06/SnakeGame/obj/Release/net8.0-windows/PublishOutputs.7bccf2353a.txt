@@ -1,0 +1,5 @@
+C:\Users\22439\Desktop\SnakeGame.exe
+C:\Users\22439\Desktop\SnakeGame.dll
+C:\Users\22439\Desktop\SnakeGame.deps.json
+C:\Users\22439\Desktop\SnakeGame.runtimeconfig.json
+C:\Users\22439\Desktop\SnakeGame.pdb
