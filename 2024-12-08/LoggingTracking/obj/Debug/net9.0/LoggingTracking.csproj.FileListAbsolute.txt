@@ -1,0 +1,15 @@
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\bin\Debug\net9.0\LoggingTracking.exe
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\bin\Debug\net9.0\LoggingTracking.deps.json
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\bin\Debug\net9.0\LoggingTracking.runtimeconfig.json
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\bin\Debug\net9.0\LoggingTracking.dll
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\bin\Debug\net9.0\LoggingTracking.pdb
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\obj\Debug\net9.0\LoggingTracking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\obj\Debug\net9.0\LoggingTracking.AssemblyInfoInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\obj\Debug\net9.0\LoggingTracking.AssemblyInfo.cs
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\obj\Debug\net9.0\LoggingTracking.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\obj\Debug\net9.0\LoggingTracking.sourcelink.json
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\obj\Debug\net9.0\LoggingTracking.dll
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\obj\Debug\net9.0\refint\LoggingTracking.dll
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\obj\Debug\net9.0\LoggingTracking.pdb
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\obj\Debug\net9.0\LoggingTracking.genruntimeconfig.cache
+D:\Code\.NetEverdayPractice\2024-12-08\LoggingTracking\obj\Debug\net9.0\ref\LoggingTracking.dll
