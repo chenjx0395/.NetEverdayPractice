@@ -1,0 +1,15 @@
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\bin\Debug\net8.0\petting-zoo.exe
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\bin\Debug\net8.0\petting-zoo.deps.json
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\bin\Debug\net8.0\petting-zoo.runtimeconfig.json
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\bin\Debug\net8.0\petting-zoo.dll
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\bin\Debug\net8.0\petting-zoo.pdb
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\obj\Debug\net8.0\petting-zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\obj\Debug\net8.0\petting-zoo.AssemblyInfoInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\obj\Debug\net8.0\petting-zoo.AssemblyInfo.cs
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\obj\Debug\net8.0\petting-zoo.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\obj\Debug\net8.0\petting-zoo.sourcelink.json
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\obj\Debug\net8.0\petting-zoo.dll
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\obj\Debug\net8.0\refint\petting-zoo.dll
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\obj\Debug\net8.0\petting-zoo.pdb
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\obj\Debug\net8.0\petting-zoo.genruntimeconfig.cache
+D:\Code\.NetEverdayPractice\2024-12-09\petting-zoo\obj\Debug\net8.0\ref\petting-zoo.dll
