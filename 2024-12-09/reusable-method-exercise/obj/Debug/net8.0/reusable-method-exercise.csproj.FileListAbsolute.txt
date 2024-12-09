@@ -1,0 +1,15 @@
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\bin\Debug\net8.0\reusable-method-exercise.exe
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\bin\Debug\net8.0\reusable-method-exercise.deps.json
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\bin\Debug\net8.0\reusable-method-exercise.runtimeconfig.json
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\bin\Debug\net8.0\reusable-method-exercise.dll
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\bin\Debug\net8.0\reusable-method-exercise.pdb
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\obj\Debug\net8.0\reusable-method-exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\obj\Debug\net8.0\reusable-method-exercise.AssemblyInfoInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\obj\Debug\net8.0\reusable-method-exercise.AssemblyInfo.cs
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\obj\Debug\net8.0\reusable-method-exercise.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\obj\Debug\net8.0\reusable-method-exercise.sourcelink.json
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\obj\Debug\net8.0\reusable-method-exercise.dll
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\obj\Debug\net8.0\refint\reusable-method-exercise.dll
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\obj\Debug\net8.0\reusable-method-exercise.pdb
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\obj\Debug\net8.0\reusable-method-exercise.genruntimeconfig.cache
+D:\Code\.NetEverdayPractice\2024-12-09\reusable-method-exercise\obj\Debug\net8.0\ref\reusable-method-exercise.dll
