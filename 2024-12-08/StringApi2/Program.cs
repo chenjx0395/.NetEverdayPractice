@@ -1,53 +1,96 @@
-﻿string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
+﻿const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
 
-//Index Of Any（）辅助方法需要一个字符的char数组。
-//您要查找：
+int spanFrontIndex = input.IndexOf("<span>");
+int spanEndIndex = input.LastIndexOf("</span>");
+spanFrontIndex += 6;
 
-char[] openSymbols = { '[', '{', '(' };
+string quantity;
+ quantity = input.Substring(spanFrontIndex, spanEndIndex - spanFrontIndex);
+string output = "";
+output = input;
+output = output.Replace("<div>", "");
+output = output.Replace("</div>", "");
+output = output.Replace("&trade", "&reg;");
 
-//您将使用稍微不同的技术进行迭代
-//字符串中的字符。这次，使用结束符
-//将上一次迭代的位置作为起始索引
-//下一个开放符号。因此，您需要初始化收盘位置
-//变量归零：
+// Your work here
 
-int closingPosition = 0;
+Console.WriteLine(quantity);
+Console.WriteLine(output);
 
-while (true)
+
+void Case11()
 {
-    int openingPosition = message.IndexOfAny(openSymbols, closingPosition);
+    string message = "This--is--ex-amp-le--da-ta";
+    message = message.Replace("--", " ");
+    message = message.Replace("-", "");
+    Console.WriteLine(message);
 
-    if (openingPosition == -1) break;
-
-    string currentSymbol = message.Substring(openingPosition, 1);
-
-//现在找到匹配的结束符号
-    char matchingSymbol = ' ';
-
-    switch (currentSymbol)
-    {
-        case "[":
-            matchingSymbol = ']';
-            break;
-        case "{":
-            matchingSymbol = '}';
-            break;
-        case "(":
-            matchingSymbol = ')';
-            break;
-    }
-
-//要查找收盘位置，请使用Index of方法的重载来指定
-//搜索匹配的Symbol应从字符串中的开头位置开始。
-
-    openingPosition += 1;
-    closingPosition = message.IndexOf(matchingSymbol, openingPosition);
-
-   //最后，使用您已经学会的技术来显示子字符串：
-
-    int length = closingPosition - openingPosition;
-    Console.WriteLine(message.Substring(openingPosition, length));
 }
+
+void Case10()
+{
+    string data = "12345John Smith          5000  3  ";
+    string updatedData = data.Remove(5, 20);
+    Console.WriteLine(updatedData);
+}
+
+
+
+
+void Case9()
+{
+    string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
+
+    //Index Of Any（）辅助方法需要一个字符的char数组。
+    //您要查找：
+
+    char[] openSymbols = { '[', '{', '(' };
+
+    //您将使用稍微不同的技术进行迭代
+    //字符串中的字符。这次，使用结束符
+    //将上一次迭代的位置作为起始索引
+    //下一个开放符号。因此，您需要初始化收盘位置
+    //变量归零：
+
+    int closingPosition = 0;
+
+    while (true)
+    {
+        int openingPosition = message.IndexOfAny(openSymbols, closingPosition);
+
+        if (openingPosition == -1) break;
+
+        string currentSymbol = message.Substring(openingPosition, 1);
+
+        //现在找到匹配的结束符号
+        char matchingSymbol = ' ';
+
+        switch (currentSymbol)
+        {
+            case "[":
+                matchingSymbol = ']';
+                break;
+            case "{":
+                matchingSymbol = '}';
+                break;
+            case "(":
+                matchingSymbol = ')';
+                break;
+        }
+
+        //要查找收盘位置，请使用Index of方法的重载来指定
+        //搜索匹配的Symbol应从字符串中的开头位置开始。
+
+        openingPosition += 1;
+        closingPosition = message.IndexOf(matchingSymbol, openingPosition);
+
+        //最后，使用您已经学会的技术来显示子字符串：
+
+        int length = closingPosition - openingPosition;
+        Console.WriteLine(message.Substring(openingPosition, length));
+    }
+}
+
 
 
 void Case8()
