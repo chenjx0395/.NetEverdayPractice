@@ -1,0 +1,15 @@
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.exe
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.dll
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\bin\Debug\net8.0\Starter.pdb
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.dll
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.pdb
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\Code\.NetEverdayPractice\2024-12-09\Guided-project-Work-with-variable-data-in-CSharp-main\Starter\obj\Debug\net8.0\ref\Starter.dll

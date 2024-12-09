@@ -10,7 +10,7 @@ string output = "";
 output = input;
 output = output.Replace("<div>", "");
 output = output.Replace("</div>", "");
-output = output.Replace("&trade", "&reg;");
+output = output.Replace("&trade", "&reg");
 
 // Your work here
 
