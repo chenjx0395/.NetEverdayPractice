@@ -93,10 +93,10 @@ void FreezePlayer()
 // 从控制台读取输入并移动玩家
 void Move()
 {
-    //if (player.Contains("(X_X)"))
-    //{
-    //    FreezePlayer();
-    //}
+    if (player.Contains("(X_X)"))
+    {
+        FreezePlayer();
+    }
 
     int lastX = playerX;
     int lastY = playerY;
