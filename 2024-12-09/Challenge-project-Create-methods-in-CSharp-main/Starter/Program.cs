@@ -45,11 +45,11 @@ var monitorTas = Task.Run(() =>
 });
 
 while (!shouldExit)
-{ 
+{
     Move();
 }
 // 等待监测任务完成（通常是因为程序退出时）
-await monitorTas; 
+await monitorTas;
 
 
 //如果调整了终端的大小，则返回true
@@ -78,7 +78,7 @@ void ShowFood()
 void ChangePlayer()
 {
     player = states[food];
-    
+
     Console.SetCursorPosition(playerX, playerY);
     Console.Write(player);
 }
@@ -125,8 +125,6 @@ void Move()
     }
 
     //清除上一位置的字符
-    
-    
     Console.SetCursorPosition(lastX, lastY);
     for (int i = 0; i < player.Length; i++)
     {
@@ -164,7 +162,7 @@ void isFoodConsume()
     int foodXEnd = foodX + 4;
 
     //人物左右端都在食物区间
-    if(playerX == foodX && playerY == foodY)
+    if (playerX == foodX && playerY == foodY)
     {
         FoodConsume();
         return;
@@ -173,7 +171,7 @@ void isFoodConsume()
     if (playerEnd >= foodX && playerEnd < foodXEnd && playerY == foodY)
     {
         //将食物记录从起始端至人物右端全置为true
-        for (int i = playerEnd - foodX; i >= 0 ; i--)
+        for (int i = playerEnd - foodX; i >= 0; i--)
         {
             foodPart[i] = true;
         }
@@ -202,6 +200,8 @@ void isFoodConsume()
 
 void FoodConsume()
 {
+
+    
     //代表食物已被吃完
     for (global::System.Int32 i = 0; i < foodPart.Length; i++)
     {

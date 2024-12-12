@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2024-12-12\TrainingDay01\TrainingDay01\bin\Debug\TrainingDay01.exe.config
+D:\Code\.NetEverdayPractice\2024-12-12\TrainingDay01\TrainingDay01\bin\Debug\TrainingDay01.exe
+D:\Code\.NetEverdayPractice\2024-12-12\TrainingDay01\TrainingDay01\bin\Debug\TrainingDay01.pdb
+D:\Code\.NetEverdayPractice\2024-12-12\TrainingDay01\TrainingDay01\obj\Debug\TrainingDay01.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12-12\TrainingDay01\TrainingDay01\obj\Debug\TrainingDay01.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12-12\TrainingDay01\TrainingDay01\obj\Debug\TrainingDay01.exe
+D:\Code\.NetEverdayPractice\2024-12-12\TrainingDay01\TrainingDay01\obj\Debug\TrainingDay01.pdb
