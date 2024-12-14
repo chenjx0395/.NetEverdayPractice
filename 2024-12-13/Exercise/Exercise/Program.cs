@@ -373,7 +373,7 @@ namespace Exercise
             Console.WriteLine("你喜欢的男生类型是什么？");
             var read = Console.ReadLine();
             Console.WriteLine($"哈，这么巧，我就是你说的{read}类型");
-
+            
         }
     }
 }
