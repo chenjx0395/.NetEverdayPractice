@@ -14,7 +14,7 @@ namespace Exercise
         const int MaxValue = 100;                        
         const int MinValue = 0;
 
-        public static LimitedInt operator -(LimitedInt x)
+        public static LimitedInt operator - (LimitedInt x)
         {
             //在这个奇怪的类中，取一个值的负数等于0
             LimitedInt li = new LimitedInt();
@@ -22,14 +22,14 @@ namespace Exercise
             return li;
         }
 
-        public static LimitedInt operator -(LimitedInt x, LimitedInt y)
+        public static LimitedInt operator - (LimitedInt x, LimitedInt y)
         {
             LimitedInt li = new LimitedInt();
             li.TheValue = x.TheValue - y.TheValue;
             return li;
         }
 
-        public static LimitedInt operator +(LimitedInt x, double y)
+        public static LimitedInt operator + (LimitedInt x, double y)
         {
             LimitedInt li = new LimitedInt();
             li.TheValue = x.TheValue + (int)y;
@@ -111,16 +111,15 @@ namespace Exercise
             Console.WriteLine("------------------------");
             Console.WriteLine("欢迎使用简易超市管理系统");
             Console.WriteLine("------------------------\n\n");
-
+            string shopName = null;
+            double shopPrice = 0;
             while (true)
             {
                 Console.WriteLine("请选择您的操作：");
                 Console.WriteLine("\t1.录入商品");
                 Console.WriteLine("\t2.查看商品");
                 Console.WriteLine("\t3.退出系统");
-                var readKey = Convert.ToInt32(Console.ReadLine());
-                string shopName = null;
-                double shopPrice = 0;
+                var readKey = Convert.ToInt32(Console.ReadLine()); 
                 switch (readKey)
                 {
                     case 1:
