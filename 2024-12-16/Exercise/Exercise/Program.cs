@@ -203,6 +203,7 @@ namespace Exercise
 
         public static void Case8()
         {
+            const int hel = 21
             var num1 = Convert.ToInt32(Console.ReadLine());
             var num2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(num1 >= num2 ? num1 == num2 ? "等于" : "大于" : "小于");
