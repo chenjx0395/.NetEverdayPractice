@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2024-12\2024-12-19\AeroplaneChess\AeroplaneChess\bin\Debug\AeroplaneChess.exe.config
+D:\Code\.NetEverdayPractice\2024-12\2024-12-19\AeroplaneChess\AeroplaneChess\bin\Debug\AeroplaneChess.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-19\AeroplaneChess\AeroplaneChess\bin\Debug\AeroplaneChess.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-19\AeroplaneChess\AeroplaneChess\obj\Debug\AeroplaneChess.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-19\AeroplaneChess\AeroplaneChess\obj\Debug\AeroplaneChess.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-19\AeroplaneChess\AeroplaneChess\obj\Debug\AeroplaneChess.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-19\AeroplaneChess\AeroplaneChess\obj\Debug\AeroplaneChess.pdb
