@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2024-12\2024-12-23\Day09\Exercise\bin\Debug\Exercise.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-23\Day09\Exercise\bin\Debug\Exercise.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-23\Day09\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-23\Day09\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-23\Day09\Exercise\obj\Debug\Exercise.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-23\Day09\Exercise\obj\Debug\Exercise.pdb
