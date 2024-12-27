@@ -17,7 +17,6 @@ namespace Exercise
             // 语句检测溢出
             Case4();
             var arrayList = new ArrayList();
-            arrayList.AddRange();
         }
 
         public static void Case4()

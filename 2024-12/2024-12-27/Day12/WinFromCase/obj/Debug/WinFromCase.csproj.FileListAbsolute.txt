@@ -1,0 +1,12 @@
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\bin\Debug\WinFromCase.exe.config
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\bin\Debug\WinFromCase.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\bin\Debug\WinFromCase.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\obj\Debug\WinFromCase.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\obj\Debug\WinFromCase.Form1.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\obj\Debug\WinFromCase.Form2.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\obj\Debug\WinFromCase.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\obj\Debug\WinFromCase.Resource1.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\obj\Debug\WinFromCase.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\obj\Debug\WinFromCase.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\obj\Debug\WinFromCase.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WinFromCase\obj\Debug\WinFromCase.pdb

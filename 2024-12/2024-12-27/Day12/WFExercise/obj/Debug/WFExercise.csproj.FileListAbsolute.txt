@@ -1,0 +1,10 @@
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WFExercise\bin\Debug\WFExercise.exe.config
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WFExercise\bin\Debug\WFExercise.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WFExercise\bin\Debug\WFExercise.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WFExercise\obj\Debug\WFExercise.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WFExercise\obj\Debug\WFExercise.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WFExercise\obj\Debug\WFExercise.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WFExercise\obj\Debug\WFExercise.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WFExercise\obj\Debug\WFExercise.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WFExercise\obj\Debug\WFExercise.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-27\Day12\WFExercise\obj\Debug\WFExercise.Form1.resources
