@@ -1,0 +1,17 @@
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\bin\Debug\WindowsFormsExercise01.exe.config
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\bin\Debug\WindowsFormsExercise01.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\bin\Debug\WindowsFormsExercise01.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.TestForm.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.Form2.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.Form3.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.Form4.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.Form5.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.Form6.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.Form7.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise01\obj\Debug\WindowsFormsExercise01.Form8.resources

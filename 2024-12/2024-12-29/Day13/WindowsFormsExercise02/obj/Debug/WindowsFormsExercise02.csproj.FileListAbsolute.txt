@@ -1,0 +1,13 @@
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\bin\Debug\WindowsFormsExercise02.exe.config
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\bin\Debug\WindowsFormsExercise02.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\bin\Debug\WindowsFormsExercise02.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\obj\Debug\WindowsFormsExercise02.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\obj\Debug\WindowsFormsExercise02.Form1.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\obj\Debug\WindowsFormsExercise02.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\obj\Debug\WindowsFormsExercise02.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\obj\Debug\WindowsFormsExercise02.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\obj\Debug\WindowsFormsExercise02.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\obj\Debug\WindowsFormsExercise02.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\obj\Debug\WindowsFormsExercise02.Form2.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\obj\Debug\WindowsFormsExercise02.Form3.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsExercise02\obj\Debug\WindowsFormsExercise02.VerificationCode.resources

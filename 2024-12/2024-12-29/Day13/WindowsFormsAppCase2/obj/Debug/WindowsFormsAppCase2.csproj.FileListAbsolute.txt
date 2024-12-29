@@ -1,0 +1,10 @@
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsAppCase2\bin\Debug\WindowsFormsAppCase2.exe.config
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsAppCase2\bin\Debug\WindowsFormsAppCase2.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsAppCase2\bin\Debug\WindowsFormsAppCase2.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsAppCase2\obj\Debug\WindowsFormsAppCase2.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsAppCase2\obj\Debug\WindowsFormsAppCase2.Form1.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsAppCase2\obj\Debug\WindowsFormsAppCase2.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsAppCase2\obj\Debug\WindowsFormsAppCase2.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsAppCase2\obj\Debug\WindowsFormsAppCase2.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsAppCase2\obj\Debug\WindowsFormsAppCase2.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-29\Day13\WindowsFormsAppCase2\obj\Debug\WindowsFormsAppCase2.pdb
