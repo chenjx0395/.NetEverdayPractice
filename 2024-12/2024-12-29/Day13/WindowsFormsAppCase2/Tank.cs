@@ -16,14 +16,14 @@ namespace WindowsFormsAppCase2
     public class Tank
     {
         private static readonly Image[] Image = { Resources.p1tankL, Resources.p1tankR, Resources.p1tankU, Resources.p1tankD };
+        private int _x = 250;
+         private int _y = 250;
+        private Image _ownImage = Image[2];
 
         // 方向
         public Direction Direction { get; set; } = Direction.Up;
-
         // 速度
         public int Speed { get; set; } = 10;
-
-        private int _x = 250;
         // x轴位置
         public int X
         {
@@ -53,7 +53,6 @@ namespace WindowsFormsAppCase2
             }
         }
         // y轴位置
-        private int _y = 250;
         public int Y
         {
             get => _y;
@@ -81,8 +80,6 @@ namespace WindowsFormsAppCase2
                 }
             }
         }
-
-        private Image _ownImage = Image[2];
         // 自身图片
         public Image OwnImage
         {
@@ -108,10 +105,6 @@ namespace WindowsFormsAppCase2
                         throw new ArgumentOutOfRangeException();
                 }
             }
-        }
-
-        public Tank()
-        {
         }
     }
 }
