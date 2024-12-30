@@ -1,0 +1,10 @@
+D:\Code\.NetEverdayPractice\2024-12\2024-12-30\Day14\SocketCLient\bin\Debug\SocketCLient.exe.config
+D:\Code\.NetEverdayPractice\2024-12\2024-12-30\Day14\SocketCLient\bin\Debug\SocketCLient.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-30\Day14\SocketCLient\bin\Debug\SocketCLient.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-30\Day14\SocketCLient\obj\Debug\SocketCLient.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-30\Day14\SocketCLient\obj\Debug\SocketCLient.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-30\Day14\SocketCLient\obj\Debug\SocketCLient.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-30\Day14\SocketCLient\obj\Debug\SocketCLient.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-30\Day14\SocketCLient\obj\Debug\SocketCLient.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-30\Day14\SocketCLient\obj\Debug\SocketCLient.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-30\Day14\SocketCLient\obj\Debug\SocketCLient.Form1.resources
