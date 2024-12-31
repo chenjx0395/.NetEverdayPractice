@@ -1,0 +1,10 @@
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\ChatRoom\bin\Debug\ChatRoom.exe.config
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\ChatRoom\bin\Debug\ChatRoom.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\ChatRoom\bin\Debug\ChatRoom.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\ChatRoom\obj\Debug\ChatRoom.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\ChatRoom\obj\Debug\ChatRoom.Form1.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\ChatRoom\obj\Debug\ChatRoom.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\ChatRoom\obj\Debug\ChatRoom.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\ChatRoom\obj\Debug\ChatRoom.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\ChatRoom\obj\Debug\ChatRoom.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\ChatRoom\obj\Debug\ChatRoom.pdb

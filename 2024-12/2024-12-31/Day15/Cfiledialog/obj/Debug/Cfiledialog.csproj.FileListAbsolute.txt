@@ -1,0 +1,10 @@
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\Cfiledialog\bin\Debug\Cfiledialog.exe.config
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\Cfiledialog\bin\Debug\Cfiledialog.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\Cfiledialog\bin\Debug\Cfiledialog.pdb
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\Cfiledialog\obj\Debug\Cfiledialog.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\Cfiledialog\obj\Debug\Cfiledialog.Form1.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\Cfiledialog\obj\Debug\Cfiledialog.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\Cfiledialog\obj\Debug\Cfiledialog.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\Cfiledialog\obj\Debug\Cfiledialog.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\Cfiledialog\obj\Debug\Cfiledialog.exe
+D:\Code\.NetEverdayPractice\2024-12\2024-12-31\Day15\Cfiledialog\obj\Debug\Cfiledialog.pdb
