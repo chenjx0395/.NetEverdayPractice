@@ -1,0 +1,10 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\Day16\airplane-wars\bin\Debug\airplane-wars.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\Day16\airplane-wars\bin\Debug\airplane-wars.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\Day16\airplane-wars\bin\Debug\airplane-wars.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\Day16\airplane-wars\obj\Debug\airplane-wars.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\Day16\airplane-wars\obj\Debug\airplane_wars.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\Day16\airplane-wars\obj\Debug\airplane-wars.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\Day16\airplane-wars\obj\Debug\airplane-wars.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\Day16\airplane-wars\obj\Debug\airplane-wars.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\Day16\airplane-wars\obj\Debug\airplane-wars.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\Day16\airplane-wars\obj\Debug\airplane_wars.Form1.resources

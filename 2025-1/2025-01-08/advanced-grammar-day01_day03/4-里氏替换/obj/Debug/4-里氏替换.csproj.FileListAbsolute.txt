@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\4-里氏替换\bin\Debug\_4_里氏替换.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\4-里氏替换\bin\Debug\_4_里氏替换.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\4-里氏替换\obj\Debug\4-里氏替换.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\4-里氏替换\obj\Debug\4-里氏替换.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\4-里氏替换\obj\Debug\_4_里氏替换.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\4-里氏替换\obj\Debug\_4_里氏替换.pdb

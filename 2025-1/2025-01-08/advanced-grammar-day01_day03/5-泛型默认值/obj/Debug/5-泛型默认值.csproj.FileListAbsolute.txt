@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\5-泛型默认值\bin\Debug\_5_泛型默认值.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\5-泛型默认值\bin\Debug\_5_泛型默认值.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\5-泛型默认值\obj\Debug\5-泛型默认值.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\5-泛型默认值\obj\Debug\5-泛型默认值.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\5-泛型默认值\obj\Debug\_5_泛型默认值.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\5-泛型默认值\obj\Debug\_5_泛型默认值.pdb

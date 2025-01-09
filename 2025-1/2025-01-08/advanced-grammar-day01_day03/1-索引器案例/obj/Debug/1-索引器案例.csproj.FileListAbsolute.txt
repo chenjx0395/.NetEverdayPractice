@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\1-索引器案例\bin\Debug\_1_索引器案例.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\1-索引器案例\bin\Debug\_1_索引器案例.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\1-索引器案例\obj\Debug\1-索引器案例.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\1-索引器案例\obj\Debug\1-索引器案例.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\1-索引器案例\obj\Debug\_1_索引器案例.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-08\advanced-grammar-day01_day03\1-索引器案例\obj\Debug\_1_索引器案例.pdb
