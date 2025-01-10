@@ -1,0 +1,11 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\bin\Debug\exam_login_register.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\bin\Debug\exam_login_register.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\bin\Debug\exam_login_register.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\obj\Debug\exam_login_register.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\obj\Debug\exam_login_register.Login.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\obj\Debug\exam_login_register.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\obj\Debug\exam_login_register.Register.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\obj\Debug\exam_login_register.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\obj\Debug\exam_login_register.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\obj\Debug\exam_login_register.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-03\advanced-grammar-day04\exam_login_register\obj\Debug\exam_login_register.pdb
