@@ -1,0 +1,11 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\bin\Debug\主窗口.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\bin\Debug\主窗口.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\bin\Debug\主窗口.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\obj\Debug\主窗口.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\obj\Debug\主窗口.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\obj\Debug\主窗口.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\obj\Debug\主窗口.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\obj\Debug\主窗口.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\obj\Debug\主窗口.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\obj\Debug\主窗口.Form1.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\主窗口\obj\Debug\主窗口.Form2.resources

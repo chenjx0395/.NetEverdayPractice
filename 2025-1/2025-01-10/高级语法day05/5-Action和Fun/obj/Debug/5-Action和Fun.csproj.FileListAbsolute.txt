@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\5-Action和Fun\bin\Debug\_5_Action和Fun.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\5-Action和Fun\bin\Debug\_5_Action和Fun.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\5-Action和Fun\obj\Debug\5-Action和Fun.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\5-Action和Fun\obj\Debug\5-Action和Fun.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\5-Action和Fun\obj\Debug\_5_Action和Fun.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\5-Action和Fun\obj\Debug\_5_Action和Fun.pdb

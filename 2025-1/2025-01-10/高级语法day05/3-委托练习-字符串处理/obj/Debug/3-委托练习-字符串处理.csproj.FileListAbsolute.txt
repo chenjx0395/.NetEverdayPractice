@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\3-委托练习-字符串处理\bin\Debug\_3_委托练习_字符串处理.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\3-委托练习-字符串处理\bin\Debug\_3_委托练习_字符串处理.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\3-委托练习-字符串处理\obj\Debug\3-委托练习-字符串处理.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\3-委托练习-字符串处理\obj\Debug\3-委托练习-字符串处理.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\3-委托练习-字符串处理\obj\Debug\_3_委托练习_字符串处理.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\3-委托练习-字符串处理\obj\Debug\_3_委托练习_字符串处理.pdb

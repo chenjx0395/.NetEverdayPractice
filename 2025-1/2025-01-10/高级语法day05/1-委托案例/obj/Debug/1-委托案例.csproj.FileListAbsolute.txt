@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\1-委托案例\bin\Debug\_1_委托案例.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\1-委托案例\bin\Debug\_1_委托案例.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\1-委托案例\obj\Debug\1-委托案例.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\1-委托案例\obj\Debug\1-委托案例.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\1-委托案例\obj\Debug\_1_委托案例.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\1-委托案例\obj\Debug\_1_委托案例.pdb
