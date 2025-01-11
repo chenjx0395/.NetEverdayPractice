@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q/LNQKTRJD4=",
+  "success": true,
+  "projectFilePath": "D:\\Code\\.NetEverdayPractice\\2025-1\\2025-01-10\\高级语法day05\\Notepad-Component-Rlues\\Notepad-Component-Rlue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\22439\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\22439\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\bin\Debug\Calculator.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\bin\Debug\Calculator.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\bin\Debug\Calculator.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\obj\Debug\Calculator.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\obj\Debug\Calculator.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\bin\Debug\Calculator_Component_Factory.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\bin\Debug\Calculator_Component_Rule.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\bin\Debug\Calculator_Component_Factory.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\bin\Debug\Calculator_Component_Rule.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator\obj\Debug\Calculator.csproj.Up2Date

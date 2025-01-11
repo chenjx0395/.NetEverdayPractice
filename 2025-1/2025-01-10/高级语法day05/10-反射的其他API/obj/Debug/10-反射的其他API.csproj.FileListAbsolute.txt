@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\10-反射的其他API\bin\Debug\_10_反射的其他API.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\10-反射的其他API\bin\Debug\_10_反射的其他API.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\10-反射的其他API\obj\Debug\10-反射的其他API.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\10-反射的其他API\obj\Debug\10-反射的其他API.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\10-反射的其他API\obj\Debug\_10_反射的其他API.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\10-反射的其他API\obj\Debug\_10_反射的其他API.pdb

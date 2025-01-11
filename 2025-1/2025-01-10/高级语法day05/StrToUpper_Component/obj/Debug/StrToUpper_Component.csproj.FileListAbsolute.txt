@@ -1,0 +1,9 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToUpper_Component\bin\Debug\StrToUpper_Component.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToUpper_Component\bin\Debug\StrToUpper_Component.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToUpper_Component\bin\Debug\Notepad-Component-Rlue.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToUpper_Component\bin\Debug\Notepad-Component-Rlue.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToUpper_Component\obj\Debug\StrToUpper_Component.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToUpper_Component\obj\Debug\StrToUpper_Component.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToUpper_Component\obj\Debug\StrToUpp.8807D857.Up2Date
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToUpper_Component\obj\Debug\StrToUpper_Component.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToUpper_Component\obj\Debug\StrToUpper_Component.pdb

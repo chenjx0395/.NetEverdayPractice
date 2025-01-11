@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\7-多播委托\bin\Debug\_7_多播委托.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\7-多播委托\bin\Debug\_7_多播委托.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\7-多播委托\obj\Debug\7-多播委托.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\7-多播委托\obj\Debug\7-多播委托.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\7-多播委托\obj\Debug\_7_多播委托.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\7-多播委托\obj\Debug\_7_多播委托.pdb

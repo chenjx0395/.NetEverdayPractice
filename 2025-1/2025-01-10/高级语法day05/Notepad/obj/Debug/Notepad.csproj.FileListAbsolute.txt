@@ -1,0 +1,13 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\bin\Debug\Notepad.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\bin\Debug\Notepad.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\bin\Debug\Notepad.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\obj\Debug\Notepad.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\obj\Debug\Notepad.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\obj\Debug\Notepad.Form1.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\bin\Debug\Notepad-Component-Rlue.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\bin\Debug\Notepad-Component-Rlue.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad\obj\Debug\Notepad.csproj.Up2Date

@@ -1,0 +1,9 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToLower_Component\bin\Debug\StrToLower_Component.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToLower_Component\bin\Debug\StrToLower_Component.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToLower_Component\bin\Debug\Notepad-Component-Rlue.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToLower_Component\bin\Debug\Notepad-Component-Rlue.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToLower_Component\obj\Debug\StrToLower_Component.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToLower_Component\obj\Debug\StrToLower_Component.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToLower_Component\obj\Debug\StrToLow.86B094F3.Up2Date
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToLower_Component\obj\Debug\StrToLower_Component.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\StrToLower_Component\obj\Debug\StrToLower_Component.pdb

@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Tools\bin\Debug\Tools.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Tools\bin\Debug\Tools.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Tools\obj\Debug\Tools.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Tools\obj\Debug\Tools.pdb

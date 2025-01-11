@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad-Component-Rlue\bin\Debug\Notepad-Component-Rlue.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad-Component-Rlue\bin\Debug\Notepad-Component-Rlue.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad-Component-Rlue\obj\Debug\Notepad-Component-Rlue.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad-Component-Rlue\obj\Debug\Notepad-Component-Rlue.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad-Component-Rlue\obj\Debug\Notepad-Component-Rlue.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Notepad-Component-Rlue\obj\Debug\Notepad-Component-Rlue.pdb

@@ -1,0 +1,9 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\AdditionPlugin\bin\Debug\AdditionPlugin.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\AdditionPlugin\bin\Debug\AdditionPlugin.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\AdditionPlugin\bin\Debug\Calculator_Component_Rule.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\AdditionPlugin\bin\Debug\Calculator_Component_Rule.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\AdditionPlugin\obj\Debug\AdditionPlugin.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\AdditionPlugin\obj\Debug\AdditionPlugin.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\AdditionPlugin\obj\Debug\Addition.DE8B6D15.Up2Date
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\AdditionPlugin\obj\Debug\AdditionPlugin.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\AdditionPlugin\obj\Debug\AdditionPlugin.pdb

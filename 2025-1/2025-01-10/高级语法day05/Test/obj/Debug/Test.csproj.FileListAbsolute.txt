@@ -1,0 +1,9 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Test\bin\Debug\Test.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Test\bin\Debug\Test.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Test\obj\Debug\Test.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Test\obj\Debug\Test.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Test\bin\Debug\Tools.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Test\bin\Debug\Tools.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Test\obj\Debug\Test.csproj.Up2Date

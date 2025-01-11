@@ -1,0 +1,6 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Rule\bin\Debug\Calculator_Component_Rule.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Rule\bin\Debug\Calculator_Component_Rule.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Rule\obj\Debug\Calculator_Component_Rule.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Rule\obj\Debug\Calculator_Component_Rule.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Rule\obj\Debug\Calculator_Component_Rule.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Rule\obj\Debug\Calculator_Component_Rule.pdb

@@ -1,0 +1,9 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Factory\bin\Debug\Calculator_Component_Factory.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Factory\bin\Debug\Calculator_Component_Factory.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Factory\bin\Debug\Calculator_Component_Rule.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Factory\bin\Debug\Calculator_Component_Rule.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Factory\obj\Debug\Calculator_Component_Factory.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Factory\obj\Debug\Calculator_Component_Factory.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Factory\obj\Debug\Calculat.E0524C46.Up2Date
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Factory\obj\Debug\Calculator_Component_Factory.dll
+D:\Code\.NetEverdayPractice\2025-1\2025-01-10\高级语法day05\Calculator_Component_Factory\obj\Debug\Calculator_Component_Factory.pdb
