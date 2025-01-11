@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-11\C#高级语法Day03\C#高级语法Day03\bin\Debug\C#高级语法Day03.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-11\C#高级语法Day03\C#高级语法Day03\bin\Debug\C#高级语法Day03.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-11\C#高级语法Day03\C#高级语法Day03\bin\Debug\C#高级语法Day03.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-11\C#高级语法Day03\C#高级语法Day03\obj\Debug\事件语法-音乐播放器案例.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-11\C#高级语法Day03\C#高级语法Day03\obj\Debug\事件语法-音乐播放器案例.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-11\C#高级语法Day03\C#高级语法Day03\obj\Debug\C#高级语法Day03.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-11\C#高级语法Day03\C#高级语法Day03\obj\Debug\C#高级语法Day03.pdb

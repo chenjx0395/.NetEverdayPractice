@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book ID="1">
+    <Name>金瓶梅</Name>
+    <des>好看!!!</des>
+    <Price>10块钱</Price>
+  </Book>
+  <Book ID="2">
+    <Name>水许传</Name>
+    <des>猴子的恋爱故事</des>
+    <Price>20块钱</Price>
+  </Book>
+  <Book ID="3">
+    <Name>红楼梦</Name>
+    <des>—群矫情怪</des>
+    <Price>30块钱</Price>
+  </Book>
+</Books>
