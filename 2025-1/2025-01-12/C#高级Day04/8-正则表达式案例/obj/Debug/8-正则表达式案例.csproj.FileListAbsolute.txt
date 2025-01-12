@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\8-正则表达式案例\bin\Debug\8-正则表达式案例.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\8-正则表达式案例\bin\Debug\8-正则表达式案例.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\8-正则表达式案例\bin\Debug\8-正则表达式案例.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\8-正则表达式案例\obj\Debug\8-正则表达式案例.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\8-正则表达式案例\obj\Debug\8-正则表达式案例.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\8-正则表达式案例\obj\Debug\8-正则表达式案例.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\8-正则表达式案例\obj\Debug\8-正则表达式案例.pdb

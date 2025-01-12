@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\1-Exercise\bin\Debug\1-Exercise.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\1-Exercise\bin\Debug\1-Exercise.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\1-Exercise\bin\Debug\1-Exercise.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\1-Exercise\obj\Debug\1-XML批量增删改查.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\1-Exercise\obj\Debug\1-XML批量增删改查.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\1-Exercise\obj\Debug\1-Exercise.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\1-Exercise\obj\Debug\1-Exercise.pdb

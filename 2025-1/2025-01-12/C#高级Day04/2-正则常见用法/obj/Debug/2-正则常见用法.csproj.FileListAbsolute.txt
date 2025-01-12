@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\2-正则常见用法\bin\Debug\2-正则常见用法.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\2-正则常见用法\bin\Debug\2-正则常见用法.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\2-正则常见用法\bin\Debug\2-正则常见用法.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\2-正则常见用法\obj\Debug\2-正则常见用法.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\2-正则常见用法\obj\Debug\2-正则常见用法.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\2-正则常见用法\obj\Debug\2-正则常见用法.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-12\C#高级Day04\2-正则常见用法\obj\Debug\2-正则常见用法.pdb

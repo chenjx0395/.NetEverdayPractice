@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-XML批量增删改查", "1-Exercise\1-XML批量增删改查.csproj", "{B694D9F2-97BD-4E4E-A398-CC03E26D4D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-正则表达式案例", "8-正则表达式案例\8-正则表达式案例.csproj", "{5C35141A-411A-4811-8905-B3406B81AB2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-正则常见用法", "2-正则常见用法\2-正则常见用法.csproj", "{8AFCFF7E-DCA1-433F-A6B9-8E0A6425A6A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B694D9F2-97BD-4E4E-A398-CC03E26D4D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B694D9F2-97BD-4E4E-A398-CC03E26D4D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B694D9F2-97BD-4E4E-A398-CC03E26D4D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B694D9F2-97BD-4E4E-A398-CC03E26D4D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C35141A-411A-4811-8905-B3406B81AB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C35141A-411A-4811-8905-B3406B81AB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C35141A-411A-4811-8905-B3406B81AB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C35141A-411A-4811-8905-B3406B81AB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFCFF7E-DCA1-433F-A6B9-8E0A6425A6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFCFF7E-DCA1-433F-A6B9-8E0A6425A6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFCFF7E-DCA1-433F-A6B9-8E0A6425A6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFCFF7E-DCA1-433F-A6B9-8E0A6425A6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
