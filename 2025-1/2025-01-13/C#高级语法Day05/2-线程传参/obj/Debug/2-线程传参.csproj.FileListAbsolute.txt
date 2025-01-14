@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\2-线程传参\bin\Debug\2-线程传参.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\2-线程传参\bin\Debug\2-线程传参.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\2-线程传参\bin\Debug\2-线程传参.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\2-线程传参\obj\Debug\2-线程传参.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\2-线程传参\obj\Debug\2-线程传参.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\2-线程传参\obj\Debug\2-线程传参.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\2-线程传参\obj\Debug\2-线程传参.pdb

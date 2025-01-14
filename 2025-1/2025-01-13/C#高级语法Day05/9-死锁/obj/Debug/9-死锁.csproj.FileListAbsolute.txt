@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\9-死锁\bin\Debug\9-死锁.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\9-死锁\bin\Debug\9-死锁.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\9-死锁\bin\Debug\9-死锁.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\9-死锁\obj\Debug\9-死锁.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\9-死锁\obj\Debug\9-死锁.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\9-死锁\obj\Debug\9-死锁.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\9-死锁\obj\Debug\9-死锁.pdb

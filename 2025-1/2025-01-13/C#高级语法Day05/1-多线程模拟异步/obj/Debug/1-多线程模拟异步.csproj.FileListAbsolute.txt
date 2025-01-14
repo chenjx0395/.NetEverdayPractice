@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\1-多线程模拟异步\bin\Debug\1-多线程模拟异步.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\1-多线程模拟异步\bin\Debug\1-多线程模拟异步.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\1-多线程模拟异步\bin\Debug\1-多线程模拟异步.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\1-多线程模拟异步\obj\Debug\1-多线程模拟异步.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\1-多线程模拟异步\obj\Debug\1-多线程模拟异步.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\1-多线程模拟异步\obj\Debug\1-多线程模拟异步.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\1-多线程模拟异步\obj\Debug\1-多线程模拟异步.pdb

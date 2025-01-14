@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\5-线程的生命周期\bin\Debug\5-线程的生命周期.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\5-线程的生命周期\bin\Debug\5-线程的生命周期.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\5-线程的生命周期\bin\Debug\5-线程的生命周期.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\5-线程的生命周期\obj\Debug\5-线程的生命周期.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\5-线程的生命周期\obj\Debug\5-线程的生命周期.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\5-线程的生命周期\obj\Debug\5-线程的生命周期.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-13\C#高级语法Day05\5-线程的生命周期\obj\Debug\5-线程的生命周期.pdb
