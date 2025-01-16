@@ -1,0 +1,10 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-15\AtAnyTime\01-测试await对防止UI线程阻塞的作用\bin\Debug\01-测试await对防止UI线程阻塞的作用.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-15\AtAnyTime\01-测试await对防止UI线程阻塞的作用\bin\Debug\01-测试await对防止UI线程阻塞的作用.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-15\AtAnyTime\01-测试await对防止UI线程阻塞的作用\bin\Debug\01-测试await对防止UI线程阻塞的作用.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-15\AtAnyTime\01-测试await对防止UI线程阻塞的作用\obj\Debug\01-测试await对防止UI线程阻塞的作用.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-15\AtAnyTime\01-测试await对防止UI线程阻塞的作用\obj\Debug\_01_测试await对防止UI线程阻塞的作用.Form1.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-15\AtAnyTime\01-测试await对防止UI线程阻塞的作用\obj\Debug\_01_测试await对防止UI线程阻塞的作用.Properties.Resources.resources
+D:\Code\.NetEverdayPractice\2025-1\2025-01-15\AtAnyTime\01-测试await对防止UI线程阻塞的作用\obj\Debug\01-测试await对防止UI线程阻塞的作用.csproj.GenerateResource.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-15\AtAnyTime\01-测试await对防止UI线程阻塞的作用\obj\Debug\01-测试await对防止UI线程阻塞的作用.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-15\AtAnyTime\01-测试await对防止UI线程阻塞的作用\obj\Debug\01-测试await对防止UI线程阻塞的作用.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-15\AtAnyTime\01-测试await对防止UI线程阻塞的作用\obj\Debug\01-测试await对防止UI线程阻塞的作用.pdb

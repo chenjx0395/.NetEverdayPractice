@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\2025-1\2025-01-16\设计模式01\05-反射破坏单例\bin\Debug\05-反射破坏单例.exe.config
+D:\Code\.NetEverdayPractice\2025-1\2025-01-16\设计模式01\05-反射破坏单例\bin\Debug\05-反射破坏单例.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-16\设计模式01\05-反射破坏单例\bin\Debug\05-反射破坏单例.pdb
+D:\Code\.NetEverdayPractice\2025-1\2025-01-16\设计模式01\05-反射破坏单例\obj\Debug\05-反射破坏单例.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-16\设计模式01\05-反射破坏单例\obj\Debug\05-反射破坏单例.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\2025-1\2025-01-16\设计模式01\05-反射破坏单例\obj\Debug\05-反射破坏单例.exe
+D:\Code\.NetEverdayPractice\2025-1\2025-01-16\设计模式01\05-反射破坏单例\obj\Debug\05-反射破坏单例.pdb
