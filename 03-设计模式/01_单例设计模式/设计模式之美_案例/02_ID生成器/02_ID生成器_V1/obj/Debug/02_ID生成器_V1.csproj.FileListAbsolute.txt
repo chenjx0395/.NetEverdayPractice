@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\03-设计模式\01_单例设计模式\设计模式之美_案例\02_ID生成器\02_ID生成器_V1\bin\Debug\02_ID生成器_V1.exe.config
+D:\Code\.NetEverdayPractice\03-设计模式\01_单例设计模式\设计模式之美_案例\02_ID生成器\02_ID生成器_V1\bin\Debug\02_ID生成器_V1.exe
+D:\Code\.NetEverdayPractice\03-设计模式\01_单例设计模式\设计模式之美_案例\02_ID生成器\02_ID生成器_V1\bin\Debug\02_ID生成器_V1.pdb
+D:\Code\.NetEverdayPractice\03-设计模式\01_单例设计模式\设计模式之美_案例\02_ID生成器\02_ID生成器_V1\obj\Debug\02_ID生成器_V1.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\03-设计模式\01_单例设计模式\设计模式之美_案例\02_ID生成器\02_ID生成器_V1\obj\Debug\02_ID生成器_V1.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\03-设计模式\01_单例设计模式\设计模式之美_案例\02_ID生成器\02_ID生成器_V1\obj\Debug\02_ID生成器_V1.exe
+D:\Code\.NetEverdayPractice\03-设计模式\01_单例设计模式\设计模式之美_案例\02_ID生成器\02_ID生成器_V1\obj\Debug\02_ID生成器_V1.pdb

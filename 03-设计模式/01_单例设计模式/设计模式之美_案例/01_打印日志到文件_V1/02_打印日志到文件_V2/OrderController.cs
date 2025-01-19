@@ -5,7 +5,7 @@
     /// </summary>
     public class OrderService
     {
-        private readonly Logger _logger = new Logger();
+        private readonly Logger _logger = Logger.GetInstance();
 
         /// <summary>
         /// 创建订单

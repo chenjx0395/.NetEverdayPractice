@@ -5,7 +5,7 @@
     /// </summary>
     public class UserService
     {
-        private readonly Logger _logger = new Logger();
+        private readonly Logger _logger = Logger.GetInstance();
         /// <summary>
         /// 用户登录
         /// </summary>

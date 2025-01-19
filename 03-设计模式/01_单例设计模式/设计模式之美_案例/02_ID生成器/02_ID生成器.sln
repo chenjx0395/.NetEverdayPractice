@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ID生成器_V1", "02_ID生成器_V1\02_ID生成器_V1.csproj", "{AF06261A-9D90-4F54-A8A4-5767C3FD7285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1B4642E4-9AED-4BE0-B932-A3AC8F264537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF06261A-9D90-4F54-A8A4-5767C3FD7285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF06261A-9D90-4F54-A8A4-5767C3FD7285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF06261A-9D90-4F54-A8A4-5767C3FD7285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF06261A-9D90-4F54-A8A4-5767C3FD7285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B4642E4-9AED-4BE0-B932-A3AC8F264537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4642E4-9AED-4BE0-B932-A3AC8F264537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4642E4-9AED-4BE0-B932-A3AC8F264537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4642E4-9AED-4BE0-B932-A3AC8F264537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
