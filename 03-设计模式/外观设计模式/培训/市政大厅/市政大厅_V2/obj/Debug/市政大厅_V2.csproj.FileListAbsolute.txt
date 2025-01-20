@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\03-设计模式\外观设计模式\培训\市政大厅\市政大厅_V2\bin\Debug\市政大厅_V2.exe.config
+D:\Code\.NetEverdayPractice\03-设计模式\外观设计模式\培训\市政大厅\市政大厅_V2\bin\Debug\市政大厅_V2.exe
+D:\Code\.NetEverdayPractice\03-设计模式\外观设计模式\培训\市政大厅\市政大厅_V2\bin\Debug\市政大厅_V2.pdb
+D:\Code\.NetEverdayPractice\03-设计模式\外观设计模式\培训\市政大厅\市政大厅_V2\obj\Debug\市政大厅_V2.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\03-设计模式\外观设计模式\培训\市政大厅\市政大厅_V2\obj\Debug\市政大厅_V2.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\03-设计模式\外观设计模式\培训\市政大厅\市政大厅_V2\obj\Debug\市政大厅_V2.exe
+D:\Code\.NetEverdayPractice\03-设计模式\外观设计模式\培训\市政大厅\市政大厅_V2\obj\Debug\市政大厅_V2.pdb

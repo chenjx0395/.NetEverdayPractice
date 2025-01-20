@@ -17,7 +17,7 @@ namespace _01_反射创建对象
                 null, 
                 Type.EmptyTypes, 
                 null);*/
-            // 方式2：通过获取所有的构造函数
+            // 方式2：获取所有的构造函数
             var constructors = type.GetConstructors(BindingFlags.NonPublic| BindingFlags.Instance);
             var constructor = constructors[0];
             // 调用构造函数创建对象

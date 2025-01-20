@@ -1,0 +1,7 @@
+D:\Code\.NetEverdayPractice\02-高级特性\异步编程\C#图解\打印网站字符数\打印网站字符数_同步版\bin\Debug\打印网站字符数_同步版.exe.config
+D:\Code\.NetEverdayPractice\02-高级特性\异步编程\C#图解\打印网站字符数\打印网站字符数_同步版\bin\Debug\打印网站字符数_同步版.exe
+D:\Code\.NetEverdayPractice\02-高级特性\异步编程\C#图解\打印网站字符数\打印网站字符数_同步版\bin\Debug\打印网站字符数_同步版.pdb
+D:\Code\.NetEverdayPractice\02-高级特性\异步编程\C#图解\打印网站字符数\打印网站字符数_同步版\obj\Debug\01_打印网站字符数_同步版.csproj.AssemblyReference.cache
+D:\Code\.NetEverdayPractice\02-高级特性\异步编程\C#图解\打印网站字符数\打印网站字符数_同步版\obj\Debug\01_打印网站字符数_同步版.csproj.CoreCompileInputs.cache
+D:\Code\.NetEverdayPractice\02-高级特性\异步编程\C#图解\打印网站字符数\打印网站字符数_同步版\obj\Debug\打印网站字符数_同步版.exe
+D:\Code\.NetEverdayPractice\02-高级特性\异步编程\C#图解\打印网站字符数\打印网站字符数_同步版\obj\Debug\打印网站字符数_同步版.pdb

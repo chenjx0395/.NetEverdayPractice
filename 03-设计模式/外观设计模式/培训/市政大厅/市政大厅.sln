@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "市政大厅_V1", "市政大厅_V1\市政大厅_V1.csproj", "{7B23EE6D-D860-401B-85C7-8E636040C07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "市政大厅_V2", "市政大厅_V2\市政大厅_V2.csproj", "{7C948500-3B26-4A86-BC26-4C58B2A0083E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B23EE6D-D860-401B-85C7-8E636040C07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B23EE6D-D860-401B-85C7-8E636040C07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B23EE6D-D860-401B-85C7-8E636040C07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B23EE6D-D860-401B-85C7-8E636040C07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C948500-3B26-4A86-BC26-4C58B2A0083E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C948500-3B26-4A86-BC26-4C58B2A0083E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C948500-3B26-4A86-BC26-4C58B2A0083E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C948500-3B26-4A86-BC26-4C58B2A0083E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
