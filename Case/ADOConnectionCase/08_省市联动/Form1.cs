@@ -50,7 +50,7 @@ namespace _08_省市联动
                         comboBox1.SelectedIndex = 0;
                     }
                 }
-            }
+            }          
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
