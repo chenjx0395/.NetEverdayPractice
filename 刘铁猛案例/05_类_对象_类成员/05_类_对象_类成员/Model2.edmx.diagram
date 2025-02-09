@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c6b84305e03643f68a3d3ea2ee769ccb" Name="Diagram1">
+        <EntityTypeShape EntityType="SQLBook_LearnModel1.Customers" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SQLBook_LearnModel1.OrderItems" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SQLBook_LearnModel1.Orders" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="SQLBook_LearnModel1.Products" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SQLBook_LearnModel1.Vendors" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="SQLBook_LearnModel1.FK_Orders_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="SQLBook_LearnModel1.FK_OrderItems_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="SQLBook_LearnModel1.FK_OrderItems_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="SQLBook_LearnModel1.FK_Products_Vendors" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
