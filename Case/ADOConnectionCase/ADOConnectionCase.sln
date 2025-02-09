@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_数据库配置文件连
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_导入文件1", "06_导入文件1\06_导入文件1.csproj", "{B8BC8887-B86A-478A-A1E6-9B2AD3431F3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_导出文件", "07_导出文件\07_导出文件.csproj", "{DC35709C-3E3A-4902-A35F-9905B604BE84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B8BC8887-B86A-478A-A1E6-9B2AD3431F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8BC8887-B86A-478A-A1E6-9B2AD3431F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8BC8887-B86A-478A-A1E6-9B2AD3431F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC35709C-3E3A-4902-A35F-9905B604BE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC35709C-3E3A-4902-A35F-9905B604BE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC35709C-3E3A-4902-A35F-9905B604BE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC35709C-3E3A-4902-A35F-9905B604BE84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
