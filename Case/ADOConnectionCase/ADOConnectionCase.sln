@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOConnectionCase", "ADOConnectionCase\ADOConnectionCase.csproj", "{E43101A5-FF65-4FD2-ADBB-D986CDAE1741}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_省市联动", "08_省市联动\08_省市联动.csproj", "{E9ACAE40-8A63-4868-B6B3-2E62AC03061C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_资源管理器", "09_资源管理器\09_资源管理器.csproj", "{EC586865-448B-4F1E-B486-F36C709849F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_DataSet的使用", "10_DataSet的使用\10_DataSet的使用.csproj", "{4B82E2D0-7BCE-4AD7-9DAF-93EFBD2AEA3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{EC586865-448B-4F1E-B486-F36C709849F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC586865-448B-4F1E-B486-F36C709849F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC586865-448B-4F1E-B486-F36C709849F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B82E2D0-7BCE-4AD7-9DAF-93EFBD2AEA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B82E2D0-7BCE-4AD7-9DAF-93EFBD2AEA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B82E2D0-7BCE-4AD7-9DAF-93EFBD2AEA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B82E2D0-7BCE-4AD7-9DAF-93EFBD2AEA3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
