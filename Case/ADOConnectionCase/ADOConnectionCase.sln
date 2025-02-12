@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_DataGridView增删改数
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_SqlHelper", "14_SqlHelper\14_SqlHelper.csproj", "{322B706F-3937-473A-BCFF-0F0AF07B0FFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_综合案例_电话薄", "15_综合案例\15_综合案例_电话薄.csproj", "{C0B55108-4117-4636-866D-B13B41D46D92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{322B706F-3937-473A-BCFF-0F0AF07B0FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{322B706F-3937-473A-BCFF-0F0AF07B0FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{322B706F-3937-473A-BCFF-0F0AF07B0FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B55108-4117-4636-866D-B13B41D46D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B55108-4117-4636-866D-B13B41D46D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B55108-4117-4636-866D-B13B41D46D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B55108-4117-4636-866D-B13B41D46D92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
